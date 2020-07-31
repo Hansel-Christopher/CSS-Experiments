@@ -1,17 +1,11 @@
-# Task Management Application using Vue.js
+# CSS-Experiments
 
-A task managment board app built using Vue.js (Trello, JIRA style) for a project during my course. 
-I've added features such as user authentication system, assigning members and made some UX improvements apart from those covered in the tutorial.
-
-Followed from the tutorial by techlab23 [Article Link](https://levelup.gitconnected.com/task-management-application-using-vue-js-part-1-df607ca30f48?gi=c51e20fc8189).
+A practice repo that I use to track all of my new CSS learnings! One demo html page is going to be the (hopefully) only page considered as the markup for all the CSS files whch can be changed from the UI itself! And I'll try to log all the tutorial links as well here.
 
 <!-- ![Project Image](/docs/images/Screenshot.png) -->
 
 ## Project Setup
 
 ```bash
-
     open index.html
-
-
 ```
